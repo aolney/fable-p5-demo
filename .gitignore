@@ -1,4 +1,4 @@
-public/bundle.js*
+public/app.js*
 
 # Node
 node_modules/
@@ -194,3 +194,4 @@ docs/tools/FSharp.Formatting.svclog
 .ionide.debug
 *.bak
 project.lock.json
+.ionide
